@@ -1,0 +1,18 @@
+react-slide-scroller
+
+Front end-npm run dev
+back end-npm start
+……………….
+FRONT-END
+cd .\frontend\
+Tailwind-Vite+react->Install
+ES7-install to use rfce to automate-VS code
+daisyUI-css->Install->Navbar->sun icon
+google font-poppins,sans-serif->past the url in index.css
+freepik->books
+route->npm i react-router-dom
+react-slick-slider
+google font-poppins-400,fredoka->import(copy url)->index.css
+1...react hook form
+
+
